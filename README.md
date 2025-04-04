@@ -47,12 +47,7 @@ Open the plugin's `.js` file in a text editor and find the `const CHARACTERS = [
     *   Variable #2 is set to the selected character's `name`.
     *   The player is transferred to the character's defined starting map/location. You should have an event on that map (e.g., Autorun or Parallel triggered by Switch #1) to handle any further game introduction or setup.
 
-## Screenshots / GIF
 
-*( **IMPORTANT:** Add visuals of a *configured* example later! )*
-
-*Example screenshot placeholder - Replace this!*
-`![Configured Character Select Screen](your_screenshot.png)`
 
 ## Technical Details & Learnings
 
